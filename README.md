@@ -1,4 +1,4 @@
-# AirBnB_clone - Console
+# AirBnB_clone - The console
 
 ## Functionalities of The command interpreter
 
@@ -12,7 +12,7 @@
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-- Clone this repository: git clone "https://github.com/Abinet508/AirBnB_clone.git"
+- Clone this repository: git clone "https://github.com/sannysuarez/AirBnB_clone.git"
 - Access AirBnb directory: cd AirBnB_clone
 - Run hbnb(interactively): ./console and enter command
 - Run hbnb(non-interactively): echo "" | ./console.py
