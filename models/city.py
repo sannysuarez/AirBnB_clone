@@ -1,13 +1,13 @@
-#!/usr/bin/python
-""" holds class City"""
+#!/usr/bin/python3
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """Representation of city """
+    """ DOC DOC DOC """
     state_id = ""
     name = ""
 
-    def __init__(self, *args, **kwargs):
-        """initializes city"""
-        super().__init__(*args, **kwargs)
+
+"""    def __init__(self, state_id):
+        City.state_id = state_id
+"""
