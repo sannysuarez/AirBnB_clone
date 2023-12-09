@@ -1,12 +1,8 @@
-#!/usr/bin/python
-""" holds class Amenity"""
+#!/usr/bin/python3
+""" Doc Here """
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Representation of Amenity """
+    """ DOC DOC DOC """
     name = ""
-
-    def __init__(self, *args, **kwargs):
-        """initializes Amenity"""
-        super().__init__(*args, **kwargs)
